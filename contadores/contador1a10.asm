@@ -1,0 +1,44 @@
+;---------------------------------------------------
+; Programa:
+; Autor:
+; Data:
+;---------------------------------------------------
+          LDI  1
+          OUT  0
+          LDI  2
+          OUT  0
+          LDI  3
+          OUT  0
+          LDI  4
+          OUT  0
+          LDI  5
+          OUT  0
+          LDI  6
+          OUT  0
+          LDI  7
+          OUT  0
+          LDI  8
+          OUT  0
+          LDI  9
+          OUT  0
+          LDI  10
+          OUT  0
+          LDI  9
+          OUT  0
+          LDI  8
+          OUT  0
+          LDI  7
+          OUT  0
+          LDI  6
+          OUT  0
+          LDI  5
+          OUT  0
+          LDI  4
+          OUT  0
+          LDI  3
+          OUT  0
+          LDI  2
+          OUT  0
+          LDI  1
+          OUT  0
+          HLT  
